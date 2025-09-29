@@ -11,15 +11,15 @@
 [Grading](#grading) -
 [Policies](#policy)
 
-Large language models have become one of the fastest growing topics, and has gained the most interest from the general public in recent years, but it is only a very small subfield of artificial intelligence and computer science. Although language is a major part of our daily lives, it has very limited use as a tool and does not actually act as an agent on it's own. As a consequence, LLM's, on their own as an AI, are very limited in scope and are a dead end when it comes to general intelligence. Search, reasoning and probabilstic learning on the otherhand are very powerful tools, that allow for an agent to learn and reason indefinitely and these subfields when paired with other emerging fields in AI (such as LLMs) will continue to evolve and revolutionize how we interact with machines, ourselves and the world around us. 
+Large language models have become one of the fastest growing topics in the field of artificial intelligence by researchers and the general public in recent years. Yet, LLMs represent only a sliver of the vast discipline of AI and computer science. While language is central to human interaction, a standalone language model, in isolation, is essentially still a tool that has very limited use, and it is not an autonomous agent capable of generalized learning and action in the world. As a consequence, LLM's, on their own as a comprehensive path to **general artificial intelligence**, is a dead end as it they are limited in scope. **Search, reasoning and probabilistic learning** on the other hand are very powerful tools, and foundational subfields of artificial intelligence. They are the powerful engines that enable an agent to learn, adapt and reason indefinitely. When these core techniques are paired with other emerging fields in AI (such as LLMs), they form the backbone for the systems, will evolve and revolutionize how we interact with machines, ourselves and the world around us.
 
-In this course, we'll explore a number of **Classical AI concepts and techniques** in search and in reasoning that are used commonly by developers in their day-to-day work. You'll learn how to interpret and analyze the world around you and think like an agent. We will tackle what appear to be mundane tasks to the average human but are hurculean efforts for machines to solve. The beauty of AI though, is we can apply some very simple and basic concepts and build from common algorithmic approaches to build beautiful solutions that allow our agents to solve some of the most complex problems. In this course we will learn how to play and solve games on our own, and build agents that will mimick human intelligence.
+In this course, we'll explore a number of **Classical AI concepts and techniques** in both **search and reasoning** that are used commonly by AI developers in their day-to-day work. You will learn how to interpret and analyze the world around you and **think like an agent**. We will tackle what appear to be mundane tasks to the average human but are herculean efforts for machines to solve. The elegance of AI lies in its ability to leverage deceptively **simple, basic concepts** and **common algorithmic approaches** to construct powerful, beautiful solutions for the most complex problems. By the end of this course, you will be equipped to build agents that not only **solve and play games** but that begin to truly mimic the structured and sophisticated processes of human intelligence.
 
 This web page serves as the main source of announcements and resources for the course, as well as the syllabus.
 
 ## Basics
 
-- Lecture: [Center Hall 119](https://map.concept3d.com/?id=1005#!ct/18312,63891,65653?m/163044?s/center%20hall), Monday through Thursday 8:00a-9:20a 
+- Lecture: [Center Hall 119](https://map.concept3d.com/?id=1005#!ct/18312,63891,65653?m/163044?s/center%20hall), Monday, Wednesday, Friday 8:00a-8:50a 
 - Discussion: [Center Hall 115](https://map.concept3d.com/?id=1005#!ct/18312,63891,65653?m/163044?s/center%20hall), Wednesday 7:00p-7:50p
 - “Skill Assessments” Exams: Flexible scheduling in weeks 3, 5, 7 and 9 with makeups on finals week.
   - [Prairie Test Link](https://us.prairietest.com/) - signing up and taking the skill assessments
@@ -65,7 +65,7 @@ There are several components to the course:
 
 ### Discussion
 
-The course's discussion component meets for an hour every Friday. In each discsussion you'll switch between working on your own, working in pairs, and participating in group discussions about your approach, lessons learned, programming problems, and so on. Please bring your laptop to code and follow along.
+The course's discussion component meets for an hour every week at the scheduled time listed above. In each discsussion you'll switch between working on your own, working in pairs, and participating in group discussions about your approach, lessons learned, programming problems, and so on. Please bring your laptop to code and follow along.
 
 The discussion sessions will be led by TAs and tutors, who will note your
 participation in these discussions for credit. At the end of the day you will submit your work to show participation.
@@ -73,7 +73,7 @@ participation in these discussions for credit. At the end of the day you will su
 If you miss discussion, you'll still be held accountable for understanding the
 relevant material via Skill Assessments. You can miss 1 discussion submission
 without it impacting your grade (see [Grading](#grading) below). There is no
-way to make up a dicussion, even for illness, travel, or emergencies. My preference would be to require all 10 discussions for an A, and have some kind of excused absences. However, tracking excused absences doesn't really scale, so the “one for any reason” policy is how we handle it. You don't need to justify your missed discussions. Contact the instructor if you'll miss more than one discussion for unavoidable reasons.
+way to make up a dicussion, even for illness, travel, or emergencies. My preference would be to require all 10 discussions for an A, and have some kind of excused absences. However, tracking excused absences doesn't really scale, so the “one for any reason” policy is how we handle it. You don't need to justify your missed discussions.
 
 ### Lecture Sessions
 
