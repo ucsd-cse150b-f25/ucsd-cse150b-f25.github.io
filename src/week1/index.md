@@ -11,6 +11,7 @@
     - [Notebook Tutorial Notebook](https://colab.research.google.com/drive/1NGS-A5nUNNaTo2hq-mfcIty_BHXZkbPJ?usp=sharing)
     - [Intro to Python Notebook](https://colab.research.google.com/drive/1DZwWkSo9GOdyTdSAGW-sUTr3Xew79o1t?usp=sharing)
     - [Intro to NetworkX Notebook](https://colab.research.google.com/drive/1EicgkS9kM680RTI7I7XEi0An-7yDaZyz?usp=sharing)
+  - Week 1 Worksheets
     - [Agents Worksheet](https://drive.google.com/file/d/1QvD5ScPa4OuSQYtxqu8yHf7pwYG0Jf0d/view?usp=sharing)
     - [Blank Participation Worksheet](https://drive.google.com/file/d/1AixFWcweyiHu_42doUkDTWcicPvB7EgQ/view?usp=sharing)
 ## Week 1 Discussion
