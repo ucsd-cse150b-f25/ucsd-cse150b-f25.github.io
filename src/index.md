@@ -21,7 +21,7 @@ This web page serves as the main source of announcements and resources for the c
 
 - Lecture: [Center Hall 119](https://map.concept3d.com/?id=1005#!ct/18312,63891,65653?m/163044?s/center%20hall), Monday through Thursday 8:00a-9:20a 
 - Discussion: [Center Hall 115](https://map.concept3d.com/?id=1005#!ct/18312,63891,65653?m/163044?s/center%20hall), Wednesday 7:00p-7:50p
-- “Skill Assessments” Exams: Flexible scheduling in weeks 2, 3, 4 and 5
+- “Skill Assessments” Exams: Flexible scheduling in weeks 3, 5, 7 and 9 with makeups on finals week.
   - [Prairie Test Link](https://us.prairietest.com/) - signing up and taking the skill assessments
   - [Prairie Learn Link](https://us.prairielearn.com/pl/login) - practice skill assessments
 - Final Exam (used for making up test credit): Flexible scheduling at the end of the quarter on the end of week 5. Maximum of 1 Make up for Skill Assessments.
@@ -31,8 +31,8 @@ This web page serves as the main source of announcements and resources for the c
 - Code Q&A Forum: [Piazza](https://piazza.com/)
 - Gradescope: [https://www.gradescope.com](https://www.gradescope.com)
 - Textbook/readings: There's no official textbook, but we will link to
-  different online resources for you to read to supplement lecture. There are a few good general overall resources if you want others to peruse, but these aren't required:
-  - The first is available as an e-book UC Berkeley [https://aima.cs.berkeley.edu](https://aima.cs.berkeley.edu); the rest are on reserve at Geisel:
+  different online resources for you to read to supplement lecture. I mostly just focus on material from one book, but it is not required:
+  - This book should be on reserve at Geisel:
     - Artificial Intelligence: A Modern Approach, 4th US ed. by Stuart Russell and Peter Norvig
   - Free: [MIT Missing Semester](https://missing.csail.mit.edu/)
 - Code GitHub Repositories:
