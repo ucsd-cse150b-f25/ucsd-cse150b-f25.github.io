@@ -2,6 +2,7 @@
 
 [Introduction to AI: Search and Reasoning](./index.md)
 
+ - [Jupyter Notebook Export Tutorial](./export.md)
  - [Week 1 - Data, Numpy, Matrices, NetworkX and Agents](./week1/index.md)
 <!-- - [Week 2 - Non-Linear Regression, OLS, and Log Loss](./week3_4/index.md)
 <!-- - [Week 3 - Classification: SVMs, Naive Bayes, KNN and Decision Trees](./week5_6/index.md)
