@@ -6,7 +6,6 @@
   - Lecture Slides 
     - [Slides PDF Syllabus](https://drive.google.com/file/d/1vUysOOshxeOrmxPEVQZqlhPXaQ7lSSlH/view?usp=sharing)
     - [Slides PDF Introduction to Agents](https://drive.google.com/file/d/1l6rVt1Ska94zYXfG-Q2yycOF0zNp7YGe/view?usp=sharing)
-    - [Slides PDF Classical Search](#) Coming soon
   - Week 1 Notebooks
     - [Notebook Tutorial Notebook](https://colab.research.google.com/drive/1NGS-A5nUNNaTo2hq-mfcIty_BHXZkbPJ?usp=sharing)
     - [Intro to Python Notebook](https://colab.research.google.com/drive/1DZwWkSo9GOdyTdSAGW-sUTr3Xew79o1t?usp=sharing)
