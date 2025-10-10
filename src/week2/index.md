@@ -3,6 +3,7 @@
 ## Week 2 Lecture Material
   - Lecture Slides
     - [Basic Search](https://drive.google.com/file/d/1S7nPyK_FiWzbSZ3Ua_HsFSlDYTKvxTo0/view?usp=sharing)
+    - [Uninformed Search](https://drive.google.com/file/d/1MdGfgY3wRnfqAf1sY0haS9KdLhr-9KUE/view?usp=sharing)
   - Worksheets
     - [Blank Participation Worksheet](https://drive.google.com/file/d/1AixFWcweyiHu_42doUkDTWcicPvB7EgQ/view?usp=sharing)
   
