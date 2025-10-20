@@ -6,7 +6,7 @@
  - [Week 1 - Data, Numpy, Matrices, NetworkX and Agents](./week1/index.md)
  - [Week 2 - Search: Basic, informed, heuristic](./week2/index.md)
  - [Week 3 - Advanced Search](./week3/index.md)
-<!-- - [Week 4 - Classification & Intro to Unsupervised Learning: Clustering & Dimensional Reduction](./week7_8/index.md)
+ - [Week 4 - Game Theory! and Local Search](./week4/index.md)
 <!-- - [Week 5 - Neural Networks: ANNs, DNNs, and CNNs](./week9_10/index.md)
 - [Jupyter Notebook Export Tutorial](./export.md)
 <!-- - [Week 6 – Scripting, CI, and Autograding](./week6/index.md) -->
