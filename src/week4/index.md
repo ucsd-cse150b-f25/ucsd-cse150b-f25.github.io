@@ -4,6 +4,7 @@
   - Lecture Slides
     - [Heuristic Search](https://drive.google.com/file/d/1Hi6gd55NOWuuJvZ_yN1dnTOtWlHFZ_vu/view?usp=sharing)
     - [Game Theory](https://drive.google.com/file/d/1ocusky4WxvW378BKV-TZLV1X5rmr-vIT/view?usp=sharing)
+    - [AlphaBeta Pruning](https://drive.google.com/file/d/1hyXlQFCcNZQ1kKvbLjBhOXDQAnLt8e-l/view?usp=sharing)
   - Worksheets
     - [Blank Participation Worksheet](https://drive.google.com/file/d/1AixFWcweyiHu_42doUkDTWcicPvB7EgQ/view?usp=sharing)
   
