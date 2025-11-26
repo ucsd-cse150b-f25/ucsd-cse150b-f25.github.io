@@ -1,6 +1,6 @@
-# Week 7 - Reinforcement Learning
+# Week 7 & 8 - Reinforcement Learning
 
-## Week 7 Lecture Material
+## Week 7 & 8 Lecture Material
   - Lecture Slides
     - [Local Search](https://drive.google.com/file/d/1tVKDAFXHxILwGbxsUC854heqQWJ785IL/view?usp=sharing)
     - [Markov Decision Processes](https://drive.google.com/file/d/1vEXao6MtUOYxBZqZM86oEqOkvhRPVjAN/view?usp=sharing)
