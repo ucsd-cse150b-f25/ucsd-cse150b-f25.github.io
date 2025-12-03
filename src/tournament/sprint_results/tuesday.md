@@ -37,8 +37,6 @@
 
 ## Sprint
 
-*Time per move: 2.0s | Search depth: 3*
-
 | Rank | Team | Points | W/L/D | Material Diff | Issues |
 |------|------|--------|-------|---------------|--------|
 | 1 | Alpha Rangers | **28.5** | 28/5/1 | +6 | 5 timeouts |
