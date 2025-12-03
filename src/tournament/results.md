@@ -4,7 +4,7 @@
 Tournament run on MS1 AI submissions.
 
 ## [Blitz Results](./blitz.md)
-Coming soon!
+Tournament run on MS1 AI submissions.
 
 ## [Rapid Results](./rapid.md)
 Coming soon!
