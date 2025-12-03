@@ -11,7 +11,11 @@
  - [Week 7 & 8 - MDP's & Reinforcement Learning](./week7/index.md)
  - [Week 9 & 10 - RL continued + First Order Logic](./week9/index.md) 
  - [Tournament Results](./tournament/results.md)
-- [Jupyter Notebook Export Tutorial](./export.md)
+   - [Sprint Results](./tournament/sprint.md)
+   - [Blitz Results](./tournament/blitz.md)
+   - [Rapid Results](./tournament/rapid.md)
+   - [Classical Results](./tournament/classical.md)
+   - [Extended Results](./tournament/extended.md)
 <!-- - [Week 6 – Scripting, CI, and Autograding](./week6/index.md) -->
 <!-- - [Week 7 – Doing it All from the Command Line](./week7/index.md) -->
 <!-- - [Week 8 - Debuggers and Controlling Processes](./week8/index.md) -->
