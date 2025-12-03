@@ -10,6 +10,7 @@
  - [Week 5 & 6 - Constraint Satisfaction Problems](./week5/index.md)
  - [Week 7 & 8 - MDP's & Reinforcement Learning](./week7/index.md)
  - [Week 9 & 10 - RL continued + First Order Logic](./week9/index.md) 
+ - [Tournament Results](./tournament/results.md)
 - [Jupyter Notebook Export Tutorial](./export.md)
 <!-- - [Week 6 – Scripting, CI, and Autograding](./week6/index.md) -->
 <!-- - [Week 7 – Doing it All from the Command Line](./week7/index.md) -->
