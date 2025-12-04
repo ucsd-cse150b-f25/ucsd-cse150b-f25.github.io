@@ -1,4 +1,4 @@
-# CSE 150B Chess AI Tournament Sprint Results
+# CSE 150B Chess AI Tournament Sprint Match Results
 
 *Generated: 2025-12-02 19:58:44*
 

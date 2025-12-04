@@ -13,4 +13,4 @@ Coming soon!
 Coming soon!
 
 ## [Extended Results](./extended.md)
-Coming soon!
+Tournament run on MS1 AI submissions.

@@ -1,4 +1,4 @@
-# CSE 150B Chess AI Rapid Tournament Results
+# CSE 150B Chess AI Rapid Tournament Match Results
 
 *Generated: 2025-12-03 18:04:54*
 

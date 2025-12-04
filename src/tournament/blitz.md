@@ -1,4 +1,4 @@
-# CSE 150B Chess AI Tournament Blitz Results
+# CSE 150B Chess AI Tournament Blitz Match Results
 
 *Generated: 2025-12-02 23:55:04*
 
