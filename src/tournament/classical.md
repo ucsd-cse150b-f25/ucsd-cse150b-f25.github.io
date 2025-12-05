@@ -1,12 +1,12 @@
 # CSE 150B Chess AI Tournament Classical Match Results
 
-*Generated: 2025-12-03 23:02:36*
+*Generated: 2025-12-04 23:18:19*
 
 ## Summary
 
 - **Participating Teams**: 18
 - **Tournaments**: 1
-- **Total Games**: 306
+- **Total Games**: 918
 
 ---
 
@@ -14,24 +14,24 @@
 
 | Rank | Team | Total Points | W/L/D | Win Rate |
 |------|------|--------------|-------|----------|
-| 1  | Frost Warriors | **30.0** | 27/1/6 | 79.4% |
-| 2  | Alpha Rangers | **30.0** | 26/0/8 | 76.5% |
-| 3  | Solar Strategists | **29.5** | 27/2/5 | 79.4% |
-| 4 | Wolf Knights | **29.0** | 26/2/6 | 76.5% |
-| 5 | Swift Jaguars | **26.5** | 24/5/5 | 70.6% |
-| 6 | Phantom Masters | **14.0** | 13/19/2 | 38.2% |
-| 7 | Sigma Eagles | **13.0** | 13/21/0 | 38.2% |
-| 8 | Azure Generals | **13.0** | 13/21/0 | 38.2% |
-| 9 | Panther Giants | **13.0** | 13/21/0 | 38.2% |
-| 10 | Oracle Hunters | **13.0** | 13/21/0 | 38.2% |
-| 11 | Silver Navigators | **13.0** | 13/21/0 | 38.2% |
-| 12 | Frost Tigers | **13.0** | 13/21/0 | 38.2% |
-| 13 | Blazing Champions | **12.0** | 12/22/0 | 35.3% |
-| 14 | Obsidian Crusaders | **12.0** | 12/22/0 | 35.3% |
-| 15 | Titan Scholars | **12.0** | 12/22/0 | 35.3% |
-| 16 | Blazing Hawks | **12.0** | 12/22/0 | 35.3% |
-| 17 | Phoenix Falcons | **12.0** | 12/22/0 | 35.3% |
-| 18 | Quantum Oracles | **9.0** | 9/25/0 | 26.5% |
+| 1  | Azure Generals | **84.0** | 69/3/30 | 67.6% |
+| 2  | Swift Jaguars | **73.0** | 52/8/42 | 51.0% |
+| 3  | Frost Tigers | **69.5** | 41/4/57 | 40.2% |
+| 4 | Sigma Eagles | **67.5** | 39/6/57 | 38.2% |
+| 5 | Oracle Hunters | **67.0** | 39/7/56 | 38.2% |
+| 6 | Panther Giants | **66.5** | 45/14/43 | 44.1% |
+| 7 | Obsidian Crusaders | **61.0** | 33/13/56 | 32.4% |
+| 8 | Blazing Hawks | **60.5** | 22/3/77 | 21.6% |
+| 9 | Phoenix Falcons | **57.0** | 19/7/76 | 18.6% |
+| 10 | Silver Navigators | **56.0** | 23/13/66 | 22.5% |
+| 11 | Phantom Masters | **53.0** | 23/19/60 | 22.5% |
+| 12 | Titan Scholars | **50.5** | 11/12/79 | 10.8% |
+| 13 | Quantum Oracles | **33.5** | 7/42/53 | 6.9% |
+| 14 | Wolf Knights | **32.0** | 8/46/48 | 7.8% |
+| 15 | Frost Warriors | **31.5** | 7/46/49 | 6.9% |
+| 16 | Solar Strategists | **28.5** | 8/53/41 | 7.8% |
+| 17 | Alpha Rangers | **27.0** | 6/54/42 | 5.9% |
+| 18 | Blazing Champions | **0.0** | 0/102/0 | 0.0% |
 
 ---
 
@@ -40,24 +40,24 @@
 
 | Rank | Team | Points | W/L/D | Material Diff | Issues |
 |------|------|--------|-------|---------------|--------|
-| 1 | Frost Warriors | **30.0** | 27/1/6 | +289 | 1 timeouts |
-| 2 | Alpha Rangers | **30.0** | 26/0/8 | +170 | - |
-| 3 | Solar Strategists | **29.5** | 27/2/5 | +572 | 2 timeouts |
-| 4 | Wolf Knights | **29.0** | 26/2/6 | -44 | 1 timeouts |
-| 5 | Swift Jaguars | **26.5** | 24/5/5 | +213 | 5 timeouts |
-| 6 | Phantom Masters | **14.0** | 13/19/2 | -129 | 18 timeouts |
-| 7 | Sigma Eagles | **13.0** | 13/21/0 | -113 | 21 timeouts |
-| 8 | Azure Generals | **13.0** | 13/21/0 | +81 | 21 timeouts |
-| 9 | Panther Giants | **13.0** | 13/21/0 | -266 | 21 timeouts |
-| 10 | Oracle Hunters | **13.0** | 13/21/0 | +49 | 21 timeouts |
-| 11 | Silver Navigators | **13.0** | 13/21/0 | -9 | 21 timeouts |
-| 12 | Frost Tigers | **13.0** | 13/21/0 | +19 | 21 timeouts |
-| 13 | Blazing Champions | **12.0** | 12/22/0 | -342 | 22 timeouts |
-| 14 | Obsidian Crusaders | **12.0** | 12/22/0 | -256 | 22 timeouts |
-| 15 | Titan Scholars | **12.0** | 12/22/0 | -390 | 22 timeouts |
-| 16 | Blazing Hawks | **12.0** | 12/22/0 | +38 | 22 timeouts |
-| 17 | Phoenix Falcons | **12.0** | 12/22/0 | +118 | 22 timeouts |
-| 18 | Quantum Oracles | **9.0** | 9/25/0 | +0 | 25 errors |
+| 1 | Azure Generals | **84.0** | 69/3/30 | +413 | - |
+| 2 | Swift Jaguars | **73.0** | 52/8/42 | +173 | - |
+| 3 | Frost Tigers | **69.5** | 41/4/57 | +837 | - |
+| 4 | Sigma Eagles | **67.5** | 39/6/57 | +884 | - |
+| 5 | Oracle Hunters | **67.0** | 39/7/56 | +772 | - |
+| 6 | Panther Giants | **66.5** | 45/14/43 | +261 | - |
+| 7 | Obsidian Crusaders | **61.0** | 33/13/56 | +407 | - |
+| 8 | Blazing Hawks | **60.5** | 22/3/77 | +1459 | - |
+| 9 | Phoenix Falcons | **57.0** | 19/7/76 | +1429 | - |
+| 10 | Silver Navigators | **56.0** | 23/13/66 | +1542 | - |
+| 11 | Phantom Masters | **53.0** | 23/19/60 | -228 | - |
+| 12 | Titan Scholars | **50.5** | 11/12/79 | +1089 | - |
+| 13 | Quantum Oracles | **33.5** | 7/42/53 | +601 | - |
+| 14 | Wolf Knights | **32.0** | 8/46/48 | -1778 | - |
+| 15 | Frost Warriors | **31.5** | 7/46/49 | -1971 | - |
+| 16 | Solar Strategists | **28.5** | 8/53/41 | -2264 | - |
+| 17 | Alpha Rangers | **27.0** | 6/54/42 | -1910 | - |
+| 18 | Blazing Champions | **0.0** | 0/102/0 | -1716 | 102 timeouts |
 
 
 ---
