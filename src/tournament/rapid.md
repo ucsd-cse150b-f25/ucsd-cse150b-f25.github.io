@@ -1,12 +1,12 @@
 # CSE 150B Chess AI Rapid Tournament Match Results
 
-*Generated: 2025-12-07 10:44:39*
+*Generated: 2025-12-08 01:36:23*
 
 ## Summary
 
-- **Participating Teams**: 5
+- **Participating Teams**: 7
 - **Tournaments**: 1
-- **Total Games**: 60
+- **Total Games**: 126
 
 ---
 
@@ -14,11 +14,13 @@
 
 | Rank | Team | Total Points | W/L/D | Win Rate |
 |------|------|--------------|-------|----------|
-| 1  | Blazing Champions | **19.5** | 15/0/9 | 62.5% |
-| 2  | Azure Generals | **17.5** | 14/3/7 | 58.3% |
-| 3  | Quantum Oracles | **15.0** | 9/3/12 | 37.5% |
-| 4 | Swift Jaguars | **5.0** | 0/14/10 | 0.0% |
-| 5 | Alpha Rangers | **3.0** | 0/18/6 | 0.0% |
+| 1  | Obsidian Crusaders | **30.0** | 24/0/12 | 66.7% |
+| 2  | Blazing Champions | **26.5** | 18/1/17 | 50.0% |
+| 3  | Azure Generals | **25.5** | 18/3/15 | 50.0% |
+| 4 | Quantum Oracles | **17.0** | 12/14/10 | 33.3% |
+| 5 | Swift Jaguars | **14.5** | 9/16/11 | 25.0% |
+| 6 | Oracle Hunters | **8.0** | 4/24/8 | 11.1% |
+| 7 | Alpha Rangers | **4.5** | 0/27/9 | 0.0% |
 
 ---
 
@@ -27,11 +29,13 @@
 
 | Rank | Team | Points | W/L/D | Material Diff | Issues |
 |------|------|--------|-------|---------------|--------|
-| 1 | Blazing Champions | **19.5** | 15/0/9 | +230 | - |
-| 2 | Azure Generals | **17.5** | 14/3/7 | +279 | - |
-| 3 | Quantum Oracles | **15.0** | 9/3/12 | +83 | - |
-| 4 | Swift Jaguars | **5.0** | 0/14/10 | -138 | - |
-| 5 | Alpha Rangers | **3.0** | 0/18/6 | -454 | - |
+| 1 | Obsidian Crusaders | **30.0** | 24/0/12 | +357 | - |
+| 2 | Blazing Champions | **26.5** | 18/1/17 | +206 | - |
+| 3 | Azure Generals | **25.5** | 18/3/15 | +305 | - |
+| 4 | Quantum Oracles | **17.0** | 12/14/10 | -189 | - |
+| 5 | Swift Jaguars | **14.5** | 9/16/11 | -89 | - |
+| 6 | Oracle Hunters | **8.0** | 4/24/8 | -584 | - |
+| 7 | Alpha Rangers | **4.5** | 0/27/9 | -6 | - |
 
 
 ---
