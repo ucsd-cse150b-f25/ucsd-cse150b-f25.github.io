@@ -1,12 +1,12 @@
 # CSE 150B Chess AI Tournament Classical Match Results
 
-*Generated: 2025-12-08 04:02:10*
+*Generated: 2025-12-09 06:49:26*
 
 ## Summary
 
-- **Participating Teams**: 7
+- **Participating Teams**: 8
 - **Tournaments**: 1
-- **Total Games**: 126
+- **Total Games**: 168
 
 ---
 
@@ -14,13 +14,14 @@
 
 | Rank | Team | Total Points | W/L/D | Win Rate |
 |------|------|--------------|-------|----------|
-| 1  | Azure Generals | **28.5** | 22/1/13 | 61.1% |
-| 2  | Obsidian Crusaders | **26.0** | 19/3/14 | 52.8% |
-| 3  | Blazing Champions | **24.0** | 17/5/14 | 47.2% |
-| 4 | Quantum Oracles | **23.5** | 17/6/13 | 47.2% |
-| 5 | Swift Jaguars | **14.0** | 9/17/10 | 25.0% |
-| 6 | Oracle Hunters | **5.5** | 1/26/9 | 2.8% |
-| 7 | Alpha Rangers | **4.5** | 0/27/9 | 0.0% |
+| 1  | Obsidian Crusaders | **34.5** | 27/0/15 | 64.3% |
+| 2  | Blazing Champions | **33.5** | 27/2/13 | 64.3% |
+| 3  | Azure Generals | **31.0** | 25/5/12 | 59.5% |
+| 4 | Quantum Oracles | **25.0** | 18/10/14 | 42.9% |
+| 5 | Sigma Eagles | **16.5** | 10/19/13 | 23.8% |
+| 6 | Swift Jaguars | **16.0** | 11/21/10 | 26.2% |
+| 7 | Oracle Hunters | **6.0** | 1/31/10 | 2.4% |
+| 8 | Alpha Rangers | **5.5** | 0/31/11 | 0.0% |
 
 ---
 
@@ -29,13 +30,14 @@
 
 | Rank | Team | Points | W/L/D | Material Diff | Issues |
 |------|------|--------|-------|---------------|--------|
-| 1 | Azure Generals | **28.5** | 22/1/13 | +446 | - |
-| 2 | Obsidian Crusaders | **26.0** | 19/3/14 | +296 | - |
-| 3 | Blazing Champions | **24.0** | 17/5/14 | +208 | - |
-| 4 | Quantum Oracles | **23.5** | 17/6/13 | +73 | - |
-| 5 | Swift Jaguars | **14.0** | 9/17/10 | -188 | - |
-| 6 | Oracle Hunters | **5.5** | 1/26/9 | -679 | - |
-| 7 | Alpha Rangers | **4.5** | 0/27/9 | -156 | - |
+| 1 | Obsidian Crusaders | **34.5** | 27/0/15 | +444 | - |
+| 2 | Blazing Champions | **33.5** | 27/2/13 | +387 | - |
+| 3 | Azure Generals | **31.0** | 25/5/12 | +427 | - |
+| 4 | Quantum Oracles | **25.0** | 18/10/14 | +6 | - |
+| 5 | Sigma Eagles | **16.5** | 10/19/13 | -92 | - |
+| 6 | Swift Jaguars | **16.0** | 11/21/10 | -198 | - |
+| 7 | Oracle Hunters | **6.0** | 1/31/10 | -883 | - |
+| 8 | Alpha Rangers | **5.5** | 0/31/11 | -91 | - |
 
 
 ---
