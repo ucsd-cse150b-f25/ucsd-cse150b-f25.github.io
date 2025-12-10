@@ -1,6 +1,6 @@
 # CSE 150B Chess AI Tournament Extended Match Results
 
-*Generated: 2025-12-09 06:49:26*
+*Generated: 2025-12-09 09:52:22*
 
 ## Summary
 
@@ -14,30 +14,30 @@
 
 | Rank | Team | Total Points | W/L/D | Win Rate |
 |------|------|--------------|-------|----------|
-| 1  | Obsidian Crusaders | **34.5** | 27/0/15 | 64.3% |
-| 2  | Blazing Champions | **33.5** | 27/2/13 | 64.3% |
-| 3  | Azure Generals | **31.0** | 25/5/12 | 59.5% |
-| 4 | Quantum Oracles | **25.0** | 18/10/14 | 42.9% |
-| 5 | Sigma Eagles | **16.5** | 10/19/13 | 23.8% |
-| 6 | Swift Jaguars | **16.0** | 11/21/10 | 26.2% |
-| 7 | Oracle Hunters | **6.0** | 1/31/10 | 2.4% |
-| 8 | Alpha Rangers | **5.5** | 0/31/11 | 0.0% |
+| 1  | Azure Generals | **35.5** | 29/0/13 | 69.0% |
+| 2  | Obsidian Crusaders | **31.0** | 22/2/18 | 52.4% |
+| 3  | Blazing Champions | **30.5** | 24/5/13 | 57.1% |
+| 4 | Quantum Oracles | **27.0** | 19/7/16 | 45.2% |
+| 5 | Swift Jaguars | **17.0** | 10/18/14 | 23.8% |
+| 6 | Sigma Eagles | **13.5** | 5/20/17 | 11.9% |
+| 7 | Oracle Hunters | **7.5** | 0/27/15 | 0.0% |
+| 8 | Alpha Rangers | **6.0** | 0/30/12 | 0.0% |
 
 ---
 
-## Classical
+## Extended
 
 
 | Rank | Team | Points | W/L/D | Material Diff | Issues |
 |------|------|--------|-------|---------------|--------|
-| 1 | Obsidian Crusaders | **34.5** | 27/0/15 | +444 | - |
-| 2 | Blazing Champions | **33.5** | 27/2/13 | +387 | - |
-| 3 | Azure Generals | **31.0** | 25/5/12 | +427 | - |
-| 4 | Quantum Oracles | **25.0** | 18/10/14 | +6 | - |
-| 5 | Sigma Eagles | **16.5** | 10/19/13 | -92 | - |
-| 6 | Swift Jaguars | **16.0** | 11/21/10 | -198 | - |
-| 7 | Oracle Hunters | **6.0** | 1/31/10 | -883 | - |
-| 8 | Alpha Rangers | **5.5** | 0/31/11 | -91 | - |
+| 1 | Azure Generals | **35.5** | 29/0/13 | +461 | - |
+| 2 | Obsidian Crusaders | **31.0** | 22/2/18 | +360 | - |
+| 3 | Blazing Champions | **30.5** | 24/5/13 | +298 | - |
+| 4 | Quantum Oracles | **27.0** | 19/7/16 | +109 | - |
+| 5 | Swift Jaguars | **17.0** | 10/18/14 | -236 | - |
+| 6 | Sigma Eagles | **13.5** | 5/20/17 | -249 | - |
+| 7 | Oracle Hunters | **7.5** | 0/27/15 | -800 | - |
+| 8 | Alpha Rangers | **6.0** | 0/30/12 | +57 | - |
 
 
 ---
