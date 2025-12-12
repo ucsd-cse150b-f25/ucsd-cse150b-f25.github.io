@@ -1,12 +1,12 @@
 # CSE 150B Chess AI Tournament Blitz Match Results
 
-*Generated: 2025-12-09 01:32:01*
+*Generated: 2025-12-10 09:54:36*
 
 ## Summary
 
-- **Participating Teams**: 8
+- **Participating Teams**: 9
 - **Tournaments**: 1
-- **Total Games**: 168
+- **Total Games**: 216
 
 ---
 
@@ -14,14 +14,15 @@
 
 | Rank | Team | Total Points | W/L/D | Win Rate |
 |------|------|--------------|-------|----------|
-| 1  | Azure Generals | **34.0** | 29/3/10 | 69.0% |
-| 2  | Obsidian Crusaders | **32.5** | 26/3/13 | 61.9% |
-| 3  | Blazing Champions | **30.5** | 26/7/9 | 61.9% |
-| 4 | Quantum Oracles | **23.0** | 18/14/10 | 42.9% |
-| 5 | Sigma Eagles | **15.5** | 9/20/13 | 21.4% |
-| 6 | Swift Jaguars | **15.5** | 6/17/19 | 14.3% |
-| 7 | Oracle Hunters | **11.5** | 7/26/9 | 16.7% |
-| 8 | Alpha Rangers | **5.5** | 0/31/11 | 0.0% |
+| 1  | Obsidian Crusaders | **40.5** | 34/1/13 | 70.8% |
+| 2  | Azure Generals | **39.0** | 31/1/16 | 64.6% |
+| 3  | Blazing Champions | **35.5** | 28/5/15 | 58.3% |
+| 4 | Quantum Oracles | **25.0** | 18/16/14 | 37.5% |
+| 5 | Swift Jaguars | **17.5** | 7/20/21 | 14.6% |
+| 6 | Phoenix Falcons | **17.5** | 4/17/27 | 8.3% |
+| 7 | Sigma Eagles | **15.5** | 6/23/19 | 12.5% |
+| 8 | Oracle Hunters | **15.0** | 8/26/14 | 16.7% |
+| 9 | Alpha Rangers | **10.5** | 0/27/21 | 0.0% |
 
 ---
 
@@ -30,14 +31,15 @@
 
 | Rank | Team | Points | W/L/D | Material Diff | Issues |
 |------|------|--------|-------|---------------|--------|
-| 1 | Azure Generals | **34.0** | 29/3/10 | +550 | - |
-| 2 | Obsidian Crusaders | **32.5** | 26/3/13 | +387 | - |
-| 3 | Blazing Champions | **30.5** | 26/7/9 | +371 | - |
-| 4 | Quantum Oracles | **23.0** | 18/14/10 | -150 | - |
-| 5 | Sigma Eagles | **15.5** | 9/20/13 | -111 | - |
-| 6 | Swift Jaguars | **15.5** | 6/17/19 | -226 | - |
-| 7 | Oracle Hunters | **11.5** | 7/26/9 | -666 | - |
-| 8 | Alpha Rangers | **5.5** | 0/31/11 | -155 | - |
+| 1 | Obsidian Crusaders | **40.5** | 34/1/13 | +491 | - |
+| 2 | Azure Generals | **39.0** | 31/1/16 | +584 | - |
+| 3 | Blazing Champions | **35.5** | 28/5/15 | +510 | - |
+| 4 | Quantum Oracles | **25.0** | 18/16/14 | -129 | - |
+| 5 | Swift Jaguars | **17.5** | 7/20/21 | -406 | - |
+| 6 | Phoenix Falcons | **17.5** | 4/17/27 | +190 | - |
+| 7 | Sigma Eagles | **15.5** | 6/23/19 | -335 | - |
+| 8 | Oracle Hunters | **15.0** | 8/26/14 | -627 | - |
+| 9 | Alpha Rangers | **10.5** | 0/27/21 | -278 | - |
 
 
 ---

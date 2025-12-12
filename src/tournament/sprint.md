@@ -1,12 +1,12 @@
 # CSE 150B Chess AI Tournament Sprint Match Results
 
-*Generated: 2025-12-09 00:35:02*
+*Generated: 2025-12-10 12:04:59*
 
 ## Summary
 
-- **Participating Teams**: 8
+- **Participating Teams**: 9
 - **Tournaments**: 1
-- **Total Games**: 168
+- **Total Games**: 216
 
 ---
 
@@ -14,30 +14,32 @@
 
 | Rank | Team | Total Points | W/L/D | Win Rate |
 |------|------|--------------|-------|----------|
-| 1  | Azure Generals | **35.5** | 29/0/13 | 69.0% |
-| 2  | Blazing Champions | **32.5** | 29/6/7 | 69.0% |
-| 3  | Obsidian Crusaders | **29.0** | 21/5/16 | 50.0% |
-| 4 | Quantum Oracles | **22.0** | 19/17/6 | 45.2% |
-| 5 | Sigma Eagles | **19.0** | 11/15/16 | 26.2% |
-| 6 | Oracle Hunters | **12.0** | 3/21/18 | 7.1% |
-| 7 | Swift Jaguars | **11.5** | 4/23/15 | 9.5% |
-| 8 | Alpha Rangers | **6.5** | 0/29/13 | 0.0% |
+| 1  | Obsidian Crusaders | **40.5** | 33/0/15 | 68.8% |
+| 2  | Blazing Champions | **38.5** | 31/2/15 | 64.6% |
+| 3  | Azure Generals | **34.5** | 24/3/21 | 50.0% |
+| 4 | Quantum Oracles | **26.0** | 14/10/24 | 29.2% |
+| 5 | Swift Jaguars | **22.0** | 14/18/16 | 29.2% |
+| 6 | Sigma Eagles | **20.0** | 12/20/16 | 25.0% |
+| 7 | Phoenix Falcons | **14.0** | 4/24/20 | 8.3% |
+| 8 | Alpha Rangers | **11.5** | 0/25/23 | 0.0% |
+| 9 | Oracle Hunters | **9.0** | 3/33/12 | 6.2% |
 
 ---
 
-## Sprint
+## Rapid
 
 
 | Rank | Team | Points | W/L/D | Material Diff | Issues |
 |------|------|--------|-------|---------------|--------|
-| 1 | Azure Generals | **35.5** | 29/0/13 | +600 | - |
-| 2 | Blazing Champions | **32.5** | 29/6/7 | +361 | - |
-| 3 | Obsidian Crusaders | **29.0** | 21/5/16 | +486 | - |
-| 4 | Quantum Oracles | **22.0** | 19/17/6 | +22 | - |
-| 5 | Sigma Eagles | **19.0** | 11/15/16 | -189 | - |
-| 6 | Oracle Hunters | **12.0** | 3/21/18 | -598 | - |
-| 7 | Swift Jaguars | **11.5** | 4/23/15 | -377 | - |
-| 8 | Alpha Rangers | **6.5** | 0/29/13 | -305 | - |
+| 1 | Obsidian Crusaders | **40.5** | 33/0/15 | +460 | - |
+| 2 | Blazing Champions | **38.5** | 31/2/15 | +394 | - |
+| 3 | Azure Generals | **34.5** | 24/3/21 | +510 | - |
+| 4 | Quantum Oracles | **26.0** | 14/10/24 | -172 | - |
+| 5 | Swift Jaguars | **22.0** | 14/18/16 | -185 | - |
+| 6 | Sigma Eagles | **20.0** | 12/20/16 | -87 | - |
+| 7 | Phoenix Falcons | **14.0** | 4/24/20 | +110 | - |
+| 8 | Alpha Rangers | **11.5** | 0/25/23 | -44 | - |
+| 9 | Oracle Hunters | **9.0** | 3/33/12 | -986 | - |
 
 
 ---
