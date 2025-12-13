@@ -1,12 +1,12 @@
 # CSE 150B Chess AI Rapid Tournament Match Results
 
-*Generated: 2025-12-12 00:58:27*
+*Generated: 2025-12-13 03:42:52*
 
 ## Summary
 
-- **Participating Teams**: 10
+- **Participating Teams**: 13
 - **Tournaments**: 1
-- **Total Games**: 270
+- **Total Games**: 468
 
 ---
 
@@ -14,16 +14,19 @@
 
 | Rank | Team | Total Points | W/L/D | Win Rate |
 |------|------|--------------|-------|----------|
-| 1  | Blazing Champions | **46.5** | 40/1/13 | 74.1% |
-| 2  | Obsidian Crusaders | **45.0** | 36/0/18 | 66.7% |
-| 3  | Panther Giants | **39.5** | 34/9/11 | 63.0% |
-| 4 | Azure Generals | **38.0** | 29/7/18 | 53.7% |
-| 5 | Swift Jaguars | **24.5** | 17/22/15 | 31.5% |
-| 6 | Sigma Eagles | **22.0** | 16/26/12 | 29.6% |
-| 7 | Phoenix Falcons | **14.5** | 4/29/21 | 7.4% |
-| 8 | Wolf Knights | **14.5** | 0/25/29 | 0.0% |
-| 9 | Alpha Rangers | **13.0** | 0/28/26 | 0.0% |
-| 10 | Oracle Hunters | **12.5** | 2/31/21 | 3.7% |
+| 1  | Azure Generals | **60.0** | 53/5/14 | 73.6% |
+| 2  | Blazing Champions | **59.0** | 51/5/16 | 70.8% |
+| 3  | Obsidian Crusaders | **57.0** | 45/3/24 | 62.5% |
+| 4 | Oracle Hunters | **51.0** | 37/7/28 | 51.4% |
+| 5 | Panther Giants | **46.5** | 33/12/27 | 45.8% |
+| 6 | Frost Warriors | **45.5** | 34/15/23 | 47.2% |
+| 7 | Frost Tigers | **32.5** | 16/23/33 | 22.2% |
+| 8 | Sigma Eagles | **29.5** | 18/31/23 | 25.0% |
+| 9 | Swift Jaguars | **26.5** | 17/36/19 | 23.6% |
+| 10 | Phoenix Falcons | **21.0** | 3/33/36 | 4.2% |
+| 11 | Alpha Rangers | **16.0** | 0/40/32 | 0.0% |
+| 12 | Wolf Knights | **14.0** | 0/44/28 | 0.0% |
+| 13 | Titan Scholars | **9.5** | 0/53/19 | 0.0% |
 
 ---
 
@@ -32,16 +35,19 @@
 
 | Rank | Team | Points | W/L/D | Material Diff | Issues |
 |------|------|--------|-------|---------------|--------|
-| 1 | Blazing Champions | **46.5** | 40/1/13 | +517 | - |
-| 2 | Obsidian Crusaders | **45.0** | 36/0/18 | +532 | - |
-| 3 | Panther Giants | **39.5** | 34/9/11 | +293 | - |
-| 4 | Azure Generals | **38.0** | 29/7/18 | +586 | - |
-| 5 | Swift Jaguars | **24.5** | 17/22/15 | -188 | - |
-| 6 | Sigma Eagles | **22.0** | 16/26/12 | -152 | - |
-| 7 | Phoenix Falcons | **14.5** | 4/29/21 | +189 | - |
-| 8 | Wolf Knights | **14.5** | 0/25/29 | -913 | - |
-| 9 | Alpha Rangers | **13.0** | 0/28/26 | +137 | - |
-| 10 | Oracle Hunters | **12.5** | 2/31/21 | -1001 | - |
+| 1 | Azure Generals | **60.0** | 53/5/14 | +872 | - |
+| 2 | Blazing Champions | **59.0** | 51/5/16 | +635 | - |
+| 3 | Obsidian Crusaders | **57.0** | 45/3/24 | +619 | - |
+| 4 | Oracle Hunters | **51.0** | 37/7/28 | +909 | - |
+| 5 | Panther Giants | **46.5** | 33/12/27 | +423 | - |
+| 6 | Frost Warriors | **45.5** | 34/15/23 | +75 | - |
+| 7 | Frost Tigers | **32.5** | 16/23/33 | -103 | - |
+| 8 | Sigma Eagles | **29.5** | 18/31/23 | -551 | - |
+| 9 | Swift Jaguars | **26.5** | 17/36/19 | -448 | - |
+| 10 | Phoenix Falcons | **21.0** | 3/33/36 | +19 | - |
+| 11 | Alpha Rangers | **16.0** | 0/40/32 | +222 | - |
+| 12 | Wolf Knights | **14.0** | 0/44/28 | -1061 | - |
+| 13 | Titan Scholars | **9.5** | 0/53/19 | -1611 | - |
 
 
 ---
